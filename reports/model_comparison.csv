@@ -1,0 +1,6 @@
+model,accuracy,roc_auc,f1,avg_precision
+Random Forest,0.8824,0.9068,0.8696,0.8972
+KNN,0.8431,0.9006,0.8333,0.8776
+Gradient Boosting,0.8431,0.8991,0.8261,0.8722
+Logistic Regression,0.8235,0.8649,0.7907,0.8648
+SVM,0.8431,0.8649,0.8333,0.8639
