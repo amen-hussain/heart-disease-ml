@@ -176,5 +176,3 @@ Claude selected the dataset, wrote every line of code, designed the modular pipe
 
 The human's role was to provide the brief and direction. Everything else — structure, decisions, implementation — was Claude.
 
-> *"can you create a whole E2E project using python that i can put on my github? ... if its related to health that would be better"*
-> — the only instruction given
